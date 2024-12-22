@@ -7,3 +7,4 @@
 4. 在 Action 页（`https://github.com/<username>/luogu-auto-punch/actions`）点击绿色圆角矩形方框。此时每日 8 点到 10 点左右即会自动打卡，如果没有打卡成功请检查你的各项配置。
 
 ![img](https://user-images.githubusercontent.com/99001676/224011586-dd93b1c0-471a-45df-8734-d13c83ae5167.png)
+
